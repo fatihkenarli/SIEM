@@ -46,7 +46,7 @@ In the **Trigger configuration**, scroll to:
     },
     "Article": {
       "Subject": "Alert",
-      "Body": "Test from curl",
+      "Body": "Test from OpenSearch",
       "ContentType": "text/plain; charset=utf8"
     }
   }
